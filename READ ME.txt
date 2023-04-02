@@ -1,0 +1,2 @@
+to run the code open cmd in this location and type :
+streamlit run streamlit_app.py
